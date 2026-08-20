@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://tenor.com/bQ6Vb.gif" width="850">
+</p>
 <!--
 **RupayanRoy/RupayanRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
